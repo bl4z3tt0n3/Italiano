@@ -28,8 +28,6 @@ Quando analizzi questo repository:
 - `/fonti/`  
   Contiene eventuali testi originali, PDF, fonti o materiali di riferimento.
 
-- `/immagini/`  
-  Contiene immagini, screenshot o scansioni utili.
 
 ## Ordine consigliato di lettura
 
